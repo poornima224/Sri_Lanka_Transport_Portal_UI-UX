@@ -2,7 +2,7 @@
 A comprehensive UI/UX redesign case study for the Sri Lanka Transport Portal, focusing on scalable design systems, user flows, and bridging modern aesthetics with civic tech.
 # 🇱🇰 Sri Lanka Transport Portal - UI/UX Redesign
 
-![Hero Image](https://www.figma.com/design/ZtxRuwZtPyOpYyt1SCZbwA/Untitled--Copy-?node-id=0-1&t=zm1pCiL3hyPEOp9X-1))
+![https://www.figma.com/design/ZtxRuwZtPyOpYyt1SCZbwA/Untitled--Copy-?node-id=0-1&t=LdopVzaszDeP8sn9-1](https://www.figma.com/design/ZtxRuwZtPyOpYyt1SCZbwA/Untitled--Copy-?node-id=0-1&t=zm1pCiL3hyPEOp9X-1))
 *Replace the link above with a hosted image of your final Desktop UI cover.*
 
 ## 📌 Project Overview
